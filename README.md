@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there I am Sampada ˚.🎀༘⋆
+Thankyou for checking out my Github
+Hope you enjoy your stay !                            
+                           ╱|、
+                          (˚ˎ 。7  
+                           |、˜〵          
+                          じしˍ,)ノ
 
-<!--
-**nirusu04/nirusu04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+            
+🍀 About me 🍀
 
-Here are some ideas to get you started:
+I'm a CS + Psych student at Texas State University passionate about:
+- 🧠 Tech & Neuroscience
+- Mood and memory research using EEG
+- ✮⋆˙ Appreciating good things in Life ✮⋆˙
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🍀 What I'm Working On 🍀
+- Sleep and memory consolidation project in the CogNeuro lab
+- Personal Portfolio Website
+
+## 💌 Connect With Me
+- 📧 samp04irusu@gmail.com
+- 🐱‍💻 [GitHub Projects](https://github.com/nirusu04?tab=repositories)
