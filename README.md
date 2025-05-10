@@ -1,5 +1,5 @@
 ## Hi there, I am Sampada ˚.🎀༘⋆
-Thankyou for checking out my Github
+Thankyou for checking out my Github. 
 Hope you enjoy your stay !                            
                   ┊         ┊       ┊   ┊    ┊        ┊
 ┊         ┊       ┊   ┊   ˚★⋆｡˚  ⋆
