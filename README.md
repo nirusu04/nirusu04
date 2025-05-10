@@ -1,5 +1,6 @@
-## Hi there, I am Sampada ˚.🎀༘⋆
+## Hi there, I am Sampada ˚.🎀༘⋆ 
 Thankyou for checking out my Github. 
+
 Hope you enjoy your stay !                            
                   ┊         ┊       ┊   ┊    ┊        ┊
 ┊         ┊       ┊   ┊   ˚★⋆｡˚  ⋆
@@ -9,15 +10,16 @@ Hope you enjoy your stay !
 ★⋆      ┊ .  ˚
            ˚★
             
-# 🍀 About me 
+# 🪷 About me 
 
-I'm a CS + Psych student at Texas State University passionate about:
+I'm a TXST CS + Psych student passionate about:
 - 🧠 Tech & Neuroscience
 - Mood and memory research using EEG
 - ✮⋆˙ Appreciating good things in Life ✮⋆˙
 
- 🍀 What I'm Working On 
-- Sleep and memory consolidation project in the CogNeuro lab
+ 🪷 What I'm Working On 
+- Sleep and memory consolidation project in 
+  the CogNeuro lab
 - Personal Portfolio Website
 
  💌 Connect With Me
