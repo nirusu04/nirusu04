@@ -10,19 +10,19 @@ Hope you enjoy your stay !
 ★⋆      ┊ .  ˚
            ˚★
             
-# 🪷 About me 
+# 🌙 About me
 
-I'm a TXST CS + Psych student passionate about:
+ 🌷 Passionate about:
 - 🧠 Tech & Neuroscience
 - Mood and memory research using EEG
 - ✮⋆˙ Appreciating good things in Life ✮⋆˙
 
- 🪷 What I'm Working On 
-- Sleep and memory consolidation project in 
-  the CogNeuro lab
+ 🌷 What I'm Working On 
+- Sleep and Memory Consolidation Project
 - Personal Portfolio Website
+- ArtMood 🦢- Mood Board Generator Webapp 
 
  💌 Connect With Me
-- 📧 samp04irusu@gmail.com
-- 🐱‍💻 [GitHub Projects](https://github.com/nirusu04?tab=repositories)
+- [Email](samp04irusu@gmail.com)
+- [GitHub Projects](https://github.com/nirusu04?tab=repositories)
 - [Linkedin](https://www.linkedin.com/in/sampada-niroula/)
