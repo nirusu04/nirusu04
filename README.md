@@ -10,7 +10,7 @@ Hope you enjoy your stay !
 ★⋆      ┊ .  ˚
            ˚★
             
-# 🌷 About me
+# ᯓ❤︎ About me
 
  🌷 Passionate about:
 - Tech & Neuroscience 🧠
